@@ -2,7 +2,7 @@
 #include "batu_dwin.h"
 
 void setup() {
-  Serial.begin(9600);
+  Serial.begin(SERIAL_BAUDRATE);
   delay(1000);
 }
 
