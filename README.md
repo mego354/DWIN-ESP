@@ -11,7 +11,6 @@ This library facilitates communication between an Arduino/ESP microcontroller an
   - [Example Code](#example-code)
 - [Notes](#notes)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
